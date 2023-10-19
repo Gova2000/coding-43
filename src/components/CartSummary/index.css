@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.div {
+  width: 200px;
+  padding: 5px;
+}
+.check {
+  width: 100%;
+  color: #fff;
+  background-color: #0b69ff;
+  padding: 5px;
+  border: none;
+}
+.alignRight {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.span {
+  font-weight: bold;
+}
